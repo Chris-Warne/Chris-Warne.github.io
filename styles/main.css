@@ -1,6 +1,8 @@
 body {
   background-color: rgb(255,215,0);
   text-align: center;
+ }
+  
 }
 h1 {
  
@@ -18,4 +20,13 @@ ol {
 }
 a {
   font-family: 'Square Peg', cursive;
+}
+ .left-text {
+  text-align: left;
+}
+body {
+  margin: 20px;
+  border: 2px solid rgb(255, 0, 0);
+  padding: 20px;
+  
 }
